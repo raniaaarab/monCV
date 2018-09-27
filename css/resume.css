@@ -1,0 +1,78 @@
+html,button,input,select,textarea{
+
+	color:#444;
+
+}
+
+html{
+	font-size:1em;
+	line-height:1.4;
+	background-color:#777;
+}
+
+.info {
+
+float:left;
+}
+
+
+h2{
+
+	font-size : 28px;
+	color:#3388BB;
+	border-bottom :3px solid #3388DD;
+
+} 
+
+section{
+	margin-bottom : 70px;
+	text-align:justify;
+
+}
+
+.titre{
+
+	font-weight : bold;
+	font-size: 20px;
+}
+#wrapper{
+
+
+	max-width:900px;
+	min-width:320px;
+	text-align:center;
+	margin:auto;
+	/*width:780px;*/
+	
+	font-family:'Source sans Pro', Calibri, Tahoma, sans-serif;
+	font-size: 16px;
+	border:5px solid #3388CC;
+	border-radius:10px;
+	box-shadow: 2px 3px 4px black;
+	padding:20px;
+	background-color:white;
+
+
+}
+
+.photo{
+	float:right;
+	border-right:1px;
+	border-color:#CCC;
+	border:3px;
+	font:white;
+	box-shadow:0px 2px 4px rgba(0,0,0,0.2);
+	
+}
+
+body{
+	background-color: grey;
+}
+
+
+h1{
+
+
+font-family: alex-brush, cursive;
+
+}
