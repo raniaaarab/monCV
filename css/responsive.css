@@ -1,0 +1,38 @@
+@media only screen and (max-width:740px){
+	#wrapper{background:#f77;}
+
+
+
+@media only screen and (max-width:570px){
+	#wrapper{background:#7f7;}
+
+
+@media only screen and (max-width:480px){
+	#wrapper{ 
+		  
+		width:100%;
+		float: none;
+		background-color:#77f;
+		columns:1;
+		
+		
+	
+		  }
+	.photo{
+
+                  width:100%;
+		  float: none;
+		  columns:1;
+		  
+		  
+             }
+
+	h2{
+
+		text-align:center;
+          }
+
+
+
+}
+
